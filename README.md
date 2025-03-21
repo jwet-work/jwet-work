@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jwet-work/jwet-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my BI certification from TripleTen
 - 🌱 I’m currently learning SQL, Tableau, Power BI, and Python
 - 👯 I’m looking to collaborate on any intetestong larger scale data projects. Hopefully in the media or matkerting space. 
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jjw314@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Never had a drivers license 
--->
+
