@@ -1,6 +1,4 @@
 
-| 4 | Superstore Return Rates | The project task was to help a store develop a strategy for getting their return costs under control, build a Tableau dashboard to highlight key insights, made from one of several wireframe options provided, and develop a tableau story to deliver the final presentation. |## Hi there 👋
-
 -  I’m currently working on my BI certification from TripleTen  🏋🏼‍♂️
 -  (◔_◔) <sup>💭<sup/> <body>I’m curently learning SQL, Tableau, Power BI, and Python<body/>
 - 👯 I’m looking to collaborate on any interesting larger scale data projects. Hopefully in the media or matkerting space. 
