@@ -8,8 +8,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Never had a drivers license
 
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+# TripleTen projects
+### Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
