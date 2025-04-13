@@ -1,15 +1,16 @@
 
--  I’m currently working on my BI certification from TripleTen  🏋🏼‍♂️
--  (◔_◔) <sup>💭<sup/> <body>I’m curently learning SQL, Tableau, Power BI, and Python<body/>
+-  I’m recently completed my BI certification from TripleTen  🏋🏼‍♂️
+-  (◔_◔) <sup>💭<sup/> <body>I’m trained on SQL, Tableau, Power BI, and Python<body/>
 - 👯 I’m looking to collaborate on any interesting larger scale data projects. Hopefully in the media or matkerting space. 
-- 🤔 I’m looking for help with gettijng more hands on real world data experience 
-- 💬 Ask me about my previous career in production, opertationsd, and project management. Or in food service. Or in educztion....
+- 🤔 I’m looking for help with getting more hands on real world data experience 
+- 💬 Ask me about my previous career in creative production, opertations, and project management. Or in food service. Or in education....
 - 📫 How to reach me: jjw314@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Never had a drivers license
 
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | <a href="https://docs.google.com/document/d/1i0FA5zQV5msrvwkR1tRt_UG3H6rYREpVwntX4vCKDm0/edit?tab=t.0#heading=h.40jiivb53aic" target="_blank"> Fresh Beats</a> | The project task was to analyze company data to find possible avenues to: increase artist promotion effectiveness, user engagement and conversions, and promotion of genres featuring emerging artists. |
